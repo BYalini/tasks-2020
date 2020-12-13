@@ -51,11 +51,37 @@ x , y pair to demonstrate the paradox. You might see the Wikipedia page for
 Simpson’s paradox for inspiration.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-How to run the file: 
-Please open Task 2020.ipynb in Jupyterlab or Jupyter notebook .
-click the Kernel button and select Restart & Run All. 
-when the pop window appear select Restart and Run All Cells. 
+**How to run the file:**
+1.  Open Task 2020.ipynb in Jupyterlab or Jupyter notebook .
+2. click the Kernel button and select Restart & Run All. 
+3. when the pop window appear select Restart and Run All Cells. 
 
 **REFERENCES:** 
 
-[1]: 
+[Q1]: 
+https://www.coursera.org/lecture/python-data/9-2-counting-with-dictionaries-HLgKK
+https://www.geeksforgeeks.org/python-count-number-of-items-in-a-dictionary-value-that-is-a-list/
+https://www.geeksforgeeks.org/counting-the-frequencies-in-a-list-using-dictionary-in-python/
+https://docs.python.org/3.1/library/collections.html
+https://www.geeksforgeeks.org/python-counter-objects-elements/
+https://medium.com/khaliat/the-counter-class-in-python-b8be31d5e4f6
+
+[Q2]: 
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.integers.html#numpy.random.Generator.integers
+https://medium.com/@soumen.atta/simulating-randomness-using-pythons-numpy-random-module-ad96023daee7
+https://stackoverflow.com/questions/9001509/how-can-i-sort-a-dictionary-by-key
+https://pythonbasics.org/matplotlib-bar-chart/
+https://matplotlib.org/3.3.3/api/_as_gen/matplotlib.pyplot.bar.html
+https://numpy.org/doc/stable/reference/generated/numpy.sum.html
+https://stackoverflow.com/questions/13567345/how-to-calculate-the-sum-of-all-columns-of-a-2d-numpy-array-efficiently
+https://www.geeksforgeeks.org/numpy-sum-in-python/
+
+[Q3]:
+https://cmdlinetips.com/2018/12/simulating-coin-toss-experiment-with-binomial-random-numbers-using-numpy/
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.random.html#numpy.random.Generator.random
+https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.hist.html
+
+[Q4]:
+https://en.wikipedia.org/wiki/Simpson%27s_paradox
+https://numpy.org/doc/stable/reference/generated/numpy.linspace.html
+https://matplotlib.org/3.3.3/api/_as_gen/matplotlib.pyplot.subplots.html
