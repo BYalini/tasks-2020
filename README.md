@@ -33,7 +33,8 @@ Calling plot_dicerolls on the results obtained from 2 produces the following cha
 <img src="dice_roll1.png" alt="Dice roll barchart" width="50%">
 
 
-When 3 dice are rolled the total could be any number between 3 and 18. The barcart below shows the result of calling <code> plot_dicerolls(dicerolls(3,10000)) </code>
+When 3 dice are rolled the total could be any number between 3 and 18. The barcart below shows the result of calling <code> plot_dicerolls(dicerolls(3,10000)) </code> 
+<br/>
 <img src="dice_roll2.png" alt="Dice roll barchart" width="50%">
 
 
