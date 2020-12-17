@@ -30,10 +30,12 @@ the number of times to roll the dice n and returns a dictionary with the number 
 I defined a function **plot_dicerolls** that takes in a dictionary with keys and counts and plots the distribution as a bar chart
 
 Calling plot_dicerolls on the results obtained from 2 produces the following chart. <br/>
-![Dice Roll](dice_roll1.png) <br/>
+<img src="dice_roll1.png" alt="Dice roll barchart" width="100%">
+
 
 When 3 dice are rolled the total could be any number between 3 and 18. The barcart below shows the result of calling <code> plot_dicerolls(dicerolls(3,10000)) </code>
-![Dice Roll](dice_roll2.png) <br/>
+<img src="dice_roll2.png" alt="Dice roll barchart" width="100%">
+
 
 4.  <span style="color:blue"> *Simpson’s paradox*</span> <br/>
 First I produced 4 sets of X values. Then I modelled Y as a linear function of X. 
