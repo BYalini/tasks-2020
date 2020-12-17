@@ -57,11 +57,11 @@ First I produced 4 sets of X values. Then I modelled Y as a linear function of X
 <br/> x = [10,13,16...67,70]
 <br/> y = 2x + 10
 
-In the chart below, each data set is plotted in a different colour. When plotted in a different colour the linear trend within each group is very clear. 
+In the chart below, each data set is plotted in a different colour. When plotted in a different colour the linear trend within each group is very clear. <br/>
 <img src="simpsonsparadox1.png" alt="Simpson's Paradox" width="50%">
 <br/>
 
-However when all datapoints are plotted using a single colour this trend  disappears. This phenomenon is known as Simpson's paradox. 
+However when all datapoints are plotted using a single colour this trend  disappears. This phenomenon is known as Simpson's paradox. <br/>
 <img src="simpsonsparadox2.png" alt="Simpson's Paradox" width="50%">
 <br/>
 
