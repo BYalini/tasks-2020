@@ -29,10 +29,10 @@ the number of times to roll the dice n and returns a dictionary with the number 
 3.  <span style="color:blue"> *Visualising Binomial Distribution* </span> <br/>
 I defined a function **plot_dicerolls** that takes in a dictionary with keys and counts and plots the distribution as a bar chart
 
-    Calling plot_dicerolls on the results obtained from 2 produces the following chart. <br/>
+Calling plot_dicerolls on the results obtained from 2 produces the following chart. <br/>
 ![Dice Roll](dice_roll1.png) <br/>
 
-    Result of <code> plot_dicerolls(dicerolls(3,10000))</code>
+When 3 dice are rolled the total could be any number between 3 and 18. The barcart below shows the result of calling <code> plot_dicerolls(dicerolls(3,10000)) </code>
 ![Dice Roll](dice_roll2.png) <br/>
 
 4.  <span style="color:blue"> *Simpson’s paradox*</span> <br/>
@@ -55,10 +55,12 @@ First I produced 4 sets of X values. Then I modelled Y as a linear function of X
 <br/> y = 2x + 10
 
 In the chart below, each data set is plotted in a different colour. When plotted in a different colour the linear trend within each group is very clear. 
-![4 different datasets](simpsonsparadox1.png)<br/>
+![4 different datasets](simpsonsparadox1.png)
+<br/>
 
 However when all datapoints are plotted using a single colour this trend  disappears. This phenomenon is known as Simpson's paradox. 
-![4 different datasets](simpsonsparadox2.png)<br/>
+![4 different datasets](simpsonsparadox2.png)
+<br/>
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
